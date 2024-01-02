@@ -2,6 +2,20 @@ Hi everyone! Im so happy that you like this project.
 
 And i love to share this with u.
 
+-------------------------------------------------------------------------
+Hardware:
+Arduino
+Servo motor
+Ultrasonic sensor HC-SR04
+Breadboard
+Jumper cables
+
+Softwares:
+Arduino IDE
+Processing 3
+
+-------------------------------------------------------------------------
+
 First,you should open the arduino_radar.ino 
 
 Modify the code based on the pins you are using.
